@@ -47,4 +47,4 @@ def imprime_matriz():
         print()
 
 
-imprime_matriz()
+# imprime_matriz()
