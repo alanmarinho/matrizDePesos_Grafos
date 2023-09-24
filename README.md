@@ -24,3 +24,7 @@
 
   Após isso, basta acessar o endereço http://localhost:5000/ para visualizar a aplicação.
 
+## Aplicação em Execução
+
+  ![Aplicação em Execução](./images/img1.png)
+  ![Aplicação em Execução](./images/img2.png)
